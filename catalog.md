@@ -6,9 +6,10 @@
 * [The Three Rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) - Robert Martin
 * [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) - Robert Martin
 * [Thorns Around the Gold](http://blog.cleancoder.com/uncle-bob/2014/11/19/GoingForTheGold.html) - Robert Martin
+* [Resist Integration Tests](http://geepawhill.org/tdd-resist-integration-tests/) - Mike Hill
 * [What TDD Is and Is Not](http://www.daedtech.com/what-tdd-is-and-is-not) - Erik Dietrich
 * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) - Martin Fowler
-* [Tests Are an Implementation Detail](https://blog.pivotal.io/pivotal-labs/labs/tests-implementation-detail) - Matthew Parker
+* [Tests Are an Implementation Detail](https://content.pivotal.io/blog/tests-are-an-implementation-detail) - Matthew Parker
 * [The Failures of Intro to TDD](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html) - Justin Searls
 * [Goto Fail, Heartbleed, and Unit Testing Culture](http://martinfowler.com/articles/testing-culture.html) - Mike Bland 
   * How Google adopted a Unit Testing Culture
@@ -159,12 +160,30 @@
 * [Please don’t mock me (and other test double advice)](https://vimeo.com/257056050) - Justin Searls
 * [End-to-End Kanban for the Whole Organization](https://youtu.be/jD_jgP_K68A?t=309) - Colleen Johnson
 * [Patterns failed, why? Should we care?](https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care) - Brian Marick
+* [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) - Robert Martin
+* [Re-thinking IT](https://vimeo.com/19122939) - John Seddon
+* [Five Underplayed Premisese of Test-Driven Development](http://geepawhill.org/five-underplayed-premises-of-tdd-2/) - Mike Hill
+* [Coaching? Like People!](http://geepawhill.org/coaching-like-people/) - Mike Hill
+* [TDD & The Lump of Coding Fallancy](http://geepawhill.org/tdd-the-lump-of-coding-fallacy/) - Mike Hill
 
 ## Podcasts
 <a name="podcasts"></a>
-* [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
-* [.NET Rocks - Technical Debt Isn't Technical with Einar H&oslash;st](https://www.dotnetrocks.com/?show=1235)
-* [.NET Rocks - Agile Change with Chris McDermott](https://www.dotnetrocks.com/?show=1260)
+
+### Agile Uprising
+* [Manifesto Co-Author Interview: Jon Kern](http://agileuprising.libsyn.com/manifesto-co-author-interview-jon-kern)
+* [Manifesto Co-Author Interview: Alistair Cockburn](http://agileuprising.libsyn.com/manifesto-co-author-interview-alistair-cockburn)
+* [Manifesto Co-Author Interview: Bob Martin](http://agileuprising.libsyn.com/manifesto-co-author-interview-bob-martin)
+* [Manifesto Co-Author Interview: Arie Van Bennekum](http://agileuprising.libsyn.com/manifesto-co-author-interview-arie-van-bennekum)
+* [Manifesto Co-Author Interview: Mike Beedle](http://agileuprising.libsyn.com/manifesto-co-author-interview-mike-beedle)
+* [Manifesto Co-Author Interview: Andy Hunt](http://agileuprising.libsyn.com/manifesto-co-author-interview-andy-hunt)
+* [Joshua Kerievsky - Modern Agile](http://agileuprising.libsyn.com/joshua-kerievsky-modern-agile)
+* [James Grenning - TDD Guided By Zombies](http://agileuprising.libsyn.com/tdd-guided-by-zombies-with-james-grenning)
+
+### .NET Rocks
+
+* [Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
+* [Technical Debt Isn't Technical with Einar H&oslash;st](https://www.dotnetrocks.com/?show=1235)
+* [Agile Change with Chris McDermott](https://www.dotnetrocks.com/?show=1260)
 
 ## Miscellaneous
 <a name="misc"></a>
