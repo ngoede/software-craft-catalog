@@ -50,6 +50,9 @@
 * [Screaming Architecture](https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html) - Robert Martin
 * [Optimizing a Program (And Programming)](http://geepawhill.org/optimizing-a-program-and-programming/) - Mike Hill
 
+### Observability
+
+* [The Observability Pipeline](https://bravenewgeek.com/the-observability-pipeline/)
 
 ### Agile / eXtreme Programming / Team Organization
 <a name="#agile-posts"></a>
