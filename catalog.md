@@ -116,6 +116,9 @@
 * [The Business Case for Modern Engineering Practices](https://blog.testdouble.com/posts/2017-08-22-the-business-case-for-modern-engineering-practices) - Daryl Kulak
 * [Size Teams for Few to No Handoffs](https://www.linkedin.com/pulse/size-teams-few-handoffs-joshua-kerievsky/) - Joshua Kerievsky
 
+### Business/Product
+* [The Trap of Sales Driven Development](https://medium.com/@marcusblankenship/the-trap-of-sales-driven-development-89e16c5e292f)
+
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
 * [Code Kata](http://codekata.pragprog.com/) - Dave Thomas
